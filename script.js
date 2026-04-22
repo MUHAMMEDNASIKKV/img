@@ -30,7 +30,7 @@ ctx.arc(540,670,160,0,Math.PI*2);
 ctx.closePath();
 ctx.clip();
 
-ctx.drawImage(userImg,380,520,320,320);
+ctx.drawImage(userImg,380,510,320,320);
 
 ctx.restore();
 
