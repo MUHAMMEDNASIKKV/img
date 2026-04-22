@@ -38,7 +38,7 @@ ctx.restore();
 ctx.fillStyle="black";
 ctx.font="bold 55px Arial";
 ctx.textAlign="center";
-ctx.fillText(name,540,980);
+ctx.fillText(name,540,960);
 
 // download
 let link = document.getElementById("download");
